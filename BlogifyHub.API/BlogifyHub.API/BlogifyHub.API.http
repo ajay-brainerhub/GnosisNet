@@ -1,0 +1,6 @@
+@BlogifyHub.API_HostAddress = http://localhost:5286
+
+GET {{BlogifyHub.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
